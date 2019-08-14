@@ -1,8 +1,8 @@
-package demo.service.impl;
+package edu.nyu.service.impl;
 
-import demo.domain.RunningInformation;
-import demo.rest.RunningInformationRepository;
-import demo.service.RunningInformationService;
+import edu.nyu.domain.RunningInformation;
+import edu.nyu.rest.RunningInformationRepository;
+import edu.nyu.service.RunningInformationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

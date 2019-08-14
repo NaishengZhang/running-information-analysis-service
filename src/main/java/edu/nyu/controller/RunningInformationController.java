@@ -1,7 +1,7 @@
-package demo.controller;
+package edu.nyu.controller;
 
-import demo.domain.RunningInformation;
-import demo.service.RunningInformationService;
+import edu.nyu.domain.RunningInformation;
+import edu.nyu.service.RunningInformationService;
 import org.json.simple.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

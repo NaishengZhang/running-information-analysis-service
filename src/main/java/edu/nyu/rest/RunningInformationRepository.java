@@ -1,6 +1,6 @@
-package demo.rest;
+package edu.nyu.rest;
 
-import demo.domain.RunningInformation;
+import edu.nyu.domain.RunningInformation;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

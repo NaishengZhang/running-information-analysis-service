@@ -1,4 +1,4 @@
-package demo.domain;
+package edu.nyu.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

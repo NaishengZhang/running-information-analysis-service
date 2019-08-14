@@ -1,6 +1,6 @@
-package demo.service;
+package edu.nyu.service;
 
-import demo.domain.RunningInformation;
+import edu.nyu.domain.RunningInformation;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
